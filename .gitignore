@@ -1,7 +1,6 @@
-.turbo/
-dist/
-node_modules/
-
 .DS_Store
 .env
+.turbo
+dist
+node_modules
 tsconfig.tsbuildinfo

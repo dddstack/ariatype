@@ -1,5 +1,4 @@
-.turbo/
-dist/
-
+.turbo
+dist
 pnpm-lock.yaml
 tsconfig.tsbuildinfo
